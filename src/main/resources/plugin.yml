@@ -1,0 +1,8 @@
+name: NoChatWarning
+version: '${project.version}'
+main: at.haha007.nochatwarning.NoChatWarning
+api-version: 1.19
+authors: [ Haha007 ]
+description: every message is a server message
+depend:
+  - ProtocolLib
